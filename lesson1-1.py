@@ -24,3 +24,5 @@ age = int(input('Сколько вам лет?:'))
 period = 10
 age_period = age + period
 print('Через', period, 'вам будет', age_period)
+
+test
