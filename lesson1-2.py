@@ -1,4 +1,4 @@
-# 2. Пользователь вводит время в секундах.
+# 2. Пconds:02}")ользователь вводит время в секундах.
 # Переведите время в часы, минуты, секунды и выведите в формате чч:мм:сс.
 # Используйте форматирование строк.
 s = int(input("Введите время в секундах: "))
@@ -15,10 +15,17 @@ if (s>=0 and s<=59):
 elif (s>=60 and s<=3600):
     n = s - m * 60
     print('{} : {} : {}'.format(h, m, n))
-elif (s > 3600):
+elif (s>3600):
     # 3723 1  час 2 мин 3 сек 3723 - 1 час * 60 3723-3600 123
     l = int((s - h * 3600) / 60)
     k = int(s - h * 3600 - l * 60)
     print('{} : {} : {}'.format(h, l, k ))
+
+#time = int(input("Enter the time in seconds: "))
+#time = int(input("Enter the time in seconds: "))
+#hours = time // 3600
+#minutes = time // 60 - hours * 60
+#seconds = time % 60
+#print(f"{hours:02}:{minutes:02}:{seconds:02}")
 
 
