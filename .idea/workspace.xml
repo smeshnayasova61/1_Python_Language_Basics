@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="272d5479-6a4e-431b-945d-4f3c50f805cb" name="Changes" comment="lesson 2-1 complited" />
+    <list default="true" id="272d5479-6a4e-431b-945d-4f3c50f805cb" name="Changes" comment="lesson 2-3 complited" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -400,7 +400,14 @@
       <option name="project" value="LOCAL" />
       <updated>1649948682481</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="lesson 2-2 complited">
+      <created>1649948861073</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1649948861073</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -460,6 +467,7 @@
     <MESSAGE value="rebase main into lesson1" />
     <MESSAGE value="change lesson1-7" />
     <MESSAGE value="lesson 2-1 complited" />
-    <option name="LAST_COMMIT_MESSAGE" value="lesson 2-1 complited" />
+    <MESSAGE value="lesson 2-2 complited" />
+    <option name="LAST_COMMIT_MESSAGE" value="lesson 2-2 complited" />
   </component>
 </project>
