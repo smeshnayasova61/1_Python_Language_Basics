@@ -32,7 +32,7 @@ while True:
         analytics[f].append(f_copy[f]) #добавляем свойство в аналитику
     goods.append((num, f_copy)) #добавляем свойство в список товаров
     print(f'\nСтруктура товаров\n{goods}')
-    print(f'\n Текущая аналитика по товарам: \n {"*" * 30}')
+    print(f'\n Текущая аналитика по товарам:  \n {"*" * 30}')
     for key, value in analytics.items():
         print(f'{key:>30}: {value}')
     print("*" * 30)
